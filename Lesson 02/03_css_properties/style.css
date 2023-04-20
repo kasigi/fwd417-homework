@@ -92,3 +92,14 @@
   height: 600px;
   width: 600px;
 }
+
+
+p {
+  font-size: 44px;
+  color: rgba(43,67,123,0.75);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+
