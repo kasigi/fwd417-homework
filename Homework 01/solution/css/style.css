@@ -11,6 +11,35 @@ p {
   font-family: Georgia,Times,"Times New Roman",serif;
 }
 
+.intro {
+  background: tan;
+  padding: 20px;
+  font-weight: bold;
+  color: greenyellow;
+}
+
+.intro {
+  color: teal;
+}
+
+#firstHeader {
+  color: goldenrod;
+  background: black;
+  padding: 20px;
+}
+
+.mainContent {
+  color: gray;
+}
+
+.mainContent p {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.mainContent .intro {
+  color: orangered
+}
+
 header {
   border-top: 5px solid #222222;
   padding: 0 100px;
